@@ -4,6 +4,16 @@ deploy tool for egg project.
 
 **Note: Windows is partially supported, see [#22](https://github.com/eggjs/egg-scripts/pull/22)**
 
+
+# 源码分析
+
+## 文件结构
+
+
+
+
+---
+
 ## Install
 
 ```bash
